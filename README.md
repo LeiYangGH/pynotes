@@ -1,0 +1,2 @@
+# pynotes
+python jupyter notes
